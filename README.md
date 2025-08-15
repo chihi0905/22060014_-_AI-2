@@ -12,9 +12,9 @@
 取得したネコ豆知識は `'cat_facts_db.csv'` に保存されます。（加点対象）
 
 ## システム設計図
-![system](images.png)
+
 ## コード構成図
-<!-- ここにコード構成図の画像や説明を挿入 -->
+![code](image.png)
 
 ## デプロイ先
 - GitHub URL:(https://github.com/chihi0905/22060014_-_AI-2)
