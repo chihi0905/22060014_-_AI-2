@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 from logic import get_multiple_cat_facts
 
-st.title("🐱 Cat Facts アプリ")
+st.title("🐱 ネコ知識app")
 st.write("猫の豆知識をランダムに表示します！")
 
 count = st.number_input("取得する猫の豆知識の数", min_value=1, max_value=10, value=3)
@@ -28,3 +28,4 @@ if facts:
         file_name="cat_facts.csv",
         mime="text/csv",
     )
+
