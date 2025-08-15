@@ -18,5 +18,5 @@
 <!-- ここにコード構成図の画像や説明を挿入 -->
 
 ## デプロイ先
-・GitHub URL:(https://github.com/chihi0905/22060014_-_AI-2)
-・アプリURL:https://22060014-ai-2-jzxxcp6fhzmvyv6ip9yaa2.streamlit.app/
+- GitHub URL:(https://github.com/chihi0905/22060014_-_AI-2)
+- アプリURL:https://22060014-ai-2-jzxxcp6fhzmvyv6ip9yaa2.streamlit.app/
